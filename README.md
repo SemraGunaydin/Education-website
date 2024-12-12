@@ -46,5 +46,8 @@ The website includes the following interactive and responsive sections:
 # 🤝 Contributing
 If you'd like to contribute or improve this project, feel free to open an issue or submit a pull request!
 
-#🌟 Acknowledgments
+# 🌟 Acknowledgments
 This project is for educational purposes only and serves as a beginner-friendly resource to learn front-end development techniques.
+
+# 📧 Contact
+gunaydinsemra34@gmail.com
