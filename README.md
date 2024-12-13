@@ -38,7 +38,7 @@ The website includes the following interactive and responsive sections:
 - How to create a fully responsive layout with modern CSS techniques (Flexbox, Media Queries).
 - How to add interactivity using JavaScript , such as menu toggles, sliders, and form validation.
   
-📸 Project Preview
+# 📸 Project Preview
 
 ![education website](https://github.com/user-attachments/assets/8907b004-fb0c-4ede-b7ec-664d2f3e9476)
 
