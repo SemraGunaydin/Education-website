@@ -31,12 +31,12 @@ The website includes the following interactive and responsive sections:
 
 - HTML5: For structuring the website content and layout.
 - CSS3: For styling, including animations and responsive design.
-- JavaScript (ES6): For adding interactivity and dynamic elements.
+- JavaScript : For adding interactivity and dynamic elements.
   
 # 🎯 What You'll Learn
 - How to structure a multi-page website using clean and semantic HTML.
 - How to create a fully responsive layout with modern CSS techniques (Flexbox, Media Queries).
-- How to add interactivity using JavaScript (ES6), such as menu toggles, sliders, and form validation.
+- How to add interactivity using JavaScript , such as menu toggles, sliders, and form validation.
   
 📸 Project Preview
 
