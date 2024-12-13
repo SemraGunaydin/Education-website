@@ -1,6 +1,6 @@
 
 # 🎓 Responsive Multi-Page Education Website
-Welcome to the Responsive Multi-Page Education/School Website repository! This project is a beginner-friendly web development tutorial showcasing how to create a modern, fully responsive education website using HTML5, CSS3, and JavaScript (ES6).
+Welcome to the Responsive Multi-Page Education/School Website repository! This project is a beginner-friendly web development tutorial showcasing how to create a modern, fully responsive education website using HTML5, CSS3, and JavaScript.
 
 Whether you're just starting with web development or looking to strengthen your front-end skills, this project offers a step-by-step guide to building a sleek and functional multi-page website from scratch.
 
